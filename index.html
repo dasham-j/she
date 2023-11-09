@@ -114,10 +114,12 @@ let count = 0;
      
      i.addEventListener('click', function() {
       t=i.src;
-       alert("hello");
+       
       g=i.id;
       
       m=g.substring(9,g.length);
+       alert(t,m,g);
+       
       if (t == "/union" +m+ ".svg"){
          i.src = "bp/union" +m+ ".svg";
          count ++;

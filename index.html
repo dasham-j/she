@@ -28,7 +28,7 @@
     <div class="reserved">RESERVED</div>
     <div class="macbook-pro-14-3-child3"></div>
     <div class="selected">SELECTED</div>
-    <i class="material-icons" style="font-size:48 px;">chair</i>
+    <i class="material-icons" style="font-size:48 px;" id="Hell">chair</i>
     <img class="union-icon1" alt="" src="union1.svg" id="unionIcon1" style="color:red"/>
 
     <img class="union-icon2" alt="" src="union2.svg" id="unionIcon2"/>
@@ -112,21 +112,11 @@ let count = 0;
     btns.forEach(function (i) {
      
      i.addEventListener('click', function() {
-      t=i.src;
-       
-      g=i.id;
       
-      m=g.substring(9,g.length);
        
-       
-      if (t == "https://she-xirt.onrender.com/union" +m+ ".svg"){
-         i.src = "https://she-xirt.onrender.com/bp/union" +m+ ".svg";
-         count ++;
-        }
-         else if (t == "https://she-xirt.onrender.com/bp/union" + m + ".svg"){
-          i.src = "https://she-xirt.onrender.com/union" + m + ".svg";
-          count--;
-         }
+      i.body.style.color='red';
+      
+      
         
         
         

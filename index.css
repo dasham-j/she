@@ -128,20 +128,20 @@
   width: 140px;
   height: 27px;
 }
-.material-icons md-1{
+.material-icons.md-1{
   position: absolute;
   top: 411.63px;
   left: 616.76px;
   width: 38px;
   height: 25px;
-  cursor: pointer;
   
+  cursor: pointer;
 }
-.material-icons md-2,
-.union-icon2,
-.union-icon3,
-.union-icon4,
-.union-icon5 {
+.material-icons.md-2,
+.material-icons.md-3,
+.material-icons.md-4,
+.material-icons.md-5,
+.material-icons.md-6 {
   position: absolute;
   top: 413.58px;
   left: 997.33px;
@@ -149,30 +149,32 @@
   height: 25px;
   cursor: pointer;
 }
-.union-icon2,
-.union-icon3,
-.union-icon4,
-.union-icon5 {
+.material-icons.md-3,
+.material-icons.md-4,
+.material-icons.md-5,
+.material-icons.md-6 {
   left: 908.33px;
+  
 }
-.union-icon3,
-.union-icon4,
-.union-icon5 {
+.material-icons.md-4,
+.material-icons.md-5,
+.material-icons.md-6 {
   top: 413.13px;
   left: 819.3px;
+  
 }
-.union-icon4,
-.union-icon5 {
+.material-icons.md-5,
+.material-icons.md-6 {
   top: 411.63px;
   left: 441px;
 }
-.union-icon5 {
+.material-icons.md-6 {
   left: 528.04px;
 }
-.union-icon6,
-.union-icon7,
-.union-icon8,
-.union-icon9 {
+.material-icons.md-7,
+.material-icons.md-8,
+.material-icons.md-9,
+.material-icons.md-10 {
   position: absolute;
   top: 721.22px;
   left: 454.39px;
@@ -180,170 +182,179 @@
   height: 25px;
   cursor: pointer;
 }
-.union-icon7,
-.union-icon8,
-.union-icon9 {
+.material-icons.md-8,
+.material-icons.md-9,
+.material-icons.md-10 {
   left: 630.15px;
+
 }
-.union-icon8,
-.union-icon9 {
+.material-icons.md-9,
+.material-icons.md-10{
   left: 543.11px;
 }
-.union-icon9 {
+.material-icons.md-10 {
   left: 722.22px;
 }
-.union-icon10,
-.union-icon11,
-.union-icon12,
-.union-icon13 {
+.material-icons.md-11,
+.material-icons.md-12,
+.material-icons.md-13,
+.material-icons.md-14 {
   position: absolute;
   top: 721.22px;
   left: 810.94px;
   width: 38px;
   height: 25px;
+  cursor: pointer;
 }
-.union-icon11,
-.union-icon12,
-.union-icon13 {
+.material-icons.md-12,
+.material-icons.md-13,
+.material-icons.md-14 {
   left: 899.65px;
 }
-.union-icon12,
-.union-icon13 {
+.material-icons.md-13,
+.material-icons.md-14 {
   top: 344px;
   left: 938.15px;
 }
-.union-icon13 {
+.material-icons.md-14 {
   top: 347.01px;
   left: 849.44px;
 }
-.union-icon14,
-.union-icon15,
-.union-icon16,
-.union-icon17 {
+.material-icons.md-15,
+.material-icons.md-16,
+.material-icons.md-17,
+.material-icons.md-18 {
   position: absolute;
   top: 344px;
   left: 489.54px;
   width: 38px;
   height: 25px;
+  cursor: pointer;
 }
-.union-icon15,
-.union-icon16,
-.union-icon17 {
+.material-icons.md-16,
+.material-icons.md-17,
+.material-icons.md-18 {
   left: 588.31px;
+  
 }
-.union-icon16,
-.union-icon17 {
+.material-icons.md-17,
+.material-icons.md-18 {
   top: 522.84px;
   left: 497.91px;
 }
-.union-icon17 {
+.material-icons.md-18 {
   left: 673.67px;
 }
-.union-icon18,
-.union-icon19,
-.union-icon20,
-.union-icon21 {
+.material-icons.md-19,
+.material-icons.md-20,
+.material-icons.md-21,
+.material-icons.md-22{
   position: absolute;
   top: 522.84px;
   left: 586.63px;
   width: 38px;
   height: 25px;
+  cursor: pointer;
 }
-.union-icon19,
-.union-icon20,
-.union-icon21 {
+.material-icons.md-20,
+.material-icons.md-21,
+.material-icons.md-22 {
   left: 765.74px;
 }
-.union-icon20,
-.union-icon21 {
+.material-icons.md-21,
+.material-icons.md-22 {
   left: 854.46px;
 }
-.union-icon21 {
+.material-icons.md-22 {
   left: 943.17px;
 }
-.union-icon22,
-.union-icon23,
-.union-icon24,
-.vector-icon {
+.material-icons.md-23,
+.material-icons.md-24,
+.material-icons.md-25,
+.material-icons.md-v {
   position: absolute;
   top: 588.97px;
   left: 454.39px;
   width: 38px;
   height: 25px;
+  cursor: pointer;
 }
-.union-icon23,
-.union-icon24,
-.vector-icon {
+.material-icons.md-24,
+.material-icons.md-25,
+.material-icons.md-v {
   left: 630.15px;
 }
-.union-icon23,
-.union-icon24 {
+.material-icons.md-24,
+.material-icons.md-25 {
   left: 543.11px;
 }
-.union-icon24 {
+.material-icons.md-25 {
   left: 722.22px;
 }
-.union-icon25,
-.union-icon26,
-.union-icon27,
-.union-icon28 {
+.material-icons.md-26,
+.material-icons.md-27,
+.material-icons.md-28,
+.material-icons.md-29 {
   position: absolute;
   top: 588.97px;
   left: 810.94px;
   width: 38px;
   height: 25px;
+  cursor: pointer;
 }
-.union-icon26,
-.union-icon27,
-.union-icon28 {
+.material-icons.md-27,
+.material-icons.md-28,
+.material-icons.md-29 {
   left: 988.37px;
 }
-.union-icon27,
-.union-icon28 {
+.material-icons.md-28,
+.material-icons.md-29 {
   left: 899.65px;
 }
-.union-icon28 {
+.material-icons.md-29 {
   top: 655.09px;
   left: 454.39px;
 }
-.union-icon29,
-.union-icon30,
-.union-icon31,
-.union-icon32 {
+.material-icons.md-30,
+.material-icons.md-31,
+.material-icons.md-32,
+.material-icons.md-33 {
   position: absolute;
   top: 655.09px;
   left: 630.15px;
   width: 38px;
   height: 25px;
+  cursor: pointer;
 }
-.union-icon30,
-.union-icon31,
-.union-icon32 {
+.material-icons.md-31,
+.material-icons.md-32,
+.material-icons.md-33 {
   left: 543.11px;
 }
-.union-icon31,
-.union-icon32 {
+.material-icons.md-32,
+.material-icons.md-33 {
   left: 722.22px;
 }
-.union-icon32 {
+.material-icons.md-33{
   left: 810.94px;
 }
-.union-icon33,
-.union-icon34,
-.union-icon35,
+.material-icons.md-34,
+.material-icons.md-35,
+.material-icons.md-36,
 .vector-icon1 {
   position: absolute;
   top: 655.09px;
   left: 988.37px;
   width: 38px;
   height: 25px;
+  cursor: pointer;
 }
-.union-icon34,
-.union-icon35,
+.material-icons.md-35,
+.material-icons.md-36,
 .vector-icon1 {
   left: 899.65px;
 }
-.union-icon35,
+.material-icons.md-36,
 .vector-icon1 {
   top: 721.22px;
   left: 988.37px;
